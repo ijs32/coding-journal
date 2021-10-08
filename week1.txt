@@ -1,0 +1,9 @@
+this week I learned a lot.
+
+I met some cool and interesting people as I began week one of my Actualize bootcamp journey.
+
+most of the week was spent reviewing ruby fundamentals we had learned during the prework section which was definitely necessary.
+we also began learning about APIs and http requests. this was super fun as I am now finally able to pull in external input which is of course crucial when it 
+comes to building an actual web app
+
+defintely am I excited to see where this journey takes me, and much more optimistic about what is to come
