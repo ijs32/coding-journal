@@ -1,0 +1,15 @@
+## 10/15/2021 ##
+
+This week we dove head first into rails and learned many more types of requests.
+We finished the last two days of the week learning about requests not used in a browser, post, patch, and delete requests.
+I am excited because I can see a full web app being built brick by brick in front of me. I even made a small
+frontend ruby script to plug into my localhost rails api to manipulate the database with these new requests, buuuut it kinda sucks and is very finnicky.
+I finished working on my crypto-price-tracker ruby command line app using binances-api, it definitely works! Although my progress has been enough
+to impress me which is quite rare, I still cant help but ignore it to focus on whats to come. 
+this was also the first week I actually started geting stressed with the amount we were learning but good job Ian you relaxed and ended up getting it all.
+
+on the career side of things,
+a friend of mine reached out to me about possibly joining his team for pay working with NFTs.
+This got me really excited because what originally got me into all of this was cryptocurrency and I would love to break my way into the field of blockchain development.
+My career advisor Sarah also reached out to me to let me know that an apprenticeship is looking for people under 26 without a bachelors, which just so happens to be me.
+All in all another great week of being happy with the decision I made.
