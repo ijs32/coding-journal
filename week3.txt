@@ -1,0 +1,7 @@
+### WEEK 10/22/2021 ###
+
+week 3 flew by.
+I honestly do not remember much.
+today we worked on authentication which I thought was really cool as I think cybersec is extremely cool.
+this is going to be a short journal because again I really cannot remember much.
+Oh we also learned how to link models with belongs_to and has_many in the model.rb file.
