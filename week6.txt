@@ -1,0 +1,9 @@
+### WEEK 11/12/21 ###
+
+Javascript beating the hell outta me but its ok.
+first capstone dat today and I am excited to have free reign to make whatever I want.
+I have really been completely out of it as of late but maybe that is just every friday,
+idk but we push through. headaches are really getting me bad and the constant lack of 
+getting whats going on makes it a lot worse. definitely the hardest week so far. we jumped straight into
+the deepend of JS by going straight to vue.js and I was extremely lost for a bit but slowly getting it. kinda.
+welp thats about all I got to say about this week.

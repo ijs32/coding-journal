@@ -1,0 +1,13 @@
+### WEEK 10/29/21 ###
+
+week 4 another week flewn by.
+this was the last week focusing on rails and I honestly zoned out for most of it.
+I started trying to teach myself solidity, which gave me another reason to be glad we are done with ruby,
+next week we start JavaScript so I am hoping that will be a good step towards learning solidity.
+supposedly it is similar to JS and C++ hopefully future me will get it better than I do. At least this week
+I am hardcore stuck on the idea of becoming a blockchain dev. I want to learn solidity and then hopefully rust.
+I also just learned about OHM and it blew my mind, hopefully we make big money off of that shitty luna fork of OHM.
+anyways this week was pretty below average learning wise. definitely was devoid of any motivation but on the up swing 
+so next week will hopefully be an improvement
+
+just need to keep going and stay motivated
